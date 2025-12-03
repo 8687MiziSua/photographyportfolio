@@ -1,0 +1,36 @@
+body{
+background-image:url('./Pics/bg.webp');
+
+}
+
+
+
+p{
+    color: white;
+    background-color: purple;
+     border-radius: 4px;
+}
+
+h1{
+    color: white;
+    background-color: purple;
+     border-radius: 4px;
+}
+
+h2{
+    color: pink;
+    background-color:magenta;
+     border-radius: 4px;
+}
+h3{
+       color: pink;
+    background-color:magenta;
+     border-radius: 4px;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
